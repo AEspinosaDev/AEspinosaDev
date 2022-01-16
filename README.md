@@ -18,7 +18,9 @@
  <a href="https://github.com/AEspinosaDev/OpenGL-SimpleRenderer">
   <img src=https://user-images.githubusercontent.com/79087129/149677387-2601e052-9af8-42a3-a9c0-6221873fddf6.gif width=45%>
   </a>
-  
+  <br> 
+  </br>
+  Click on the images to go the specific pages.
  
 </p>
  <br> 
