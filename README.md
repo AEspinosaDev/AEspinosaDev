@@ -20,7 +20,7 @@
   </a>
   <br> 
   </br>
-  Click on the images to go the specific pages.
+  Click on the images to go to the specific pages.
  
 </p>
  <br> 
