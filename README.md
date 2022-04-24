@@ -21,7 +21,7 @@
   <br> 
   </br>
   </a>
- <a href="https://github.com/AEspinosaDev/OpenGL-SimpleRenderer">
+ <a href="https://github.com/AEspinosaDev/Cloth-Behaviour-Simulation">
   <img src=https://user-images.githubusercontent.com/79087129/164989294-98c890ab-9498-4927-8cf5-812ce658bba3.gif width=50%>
   </a>
    <br> 
