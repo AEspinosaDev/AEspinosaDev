@@ -20,7 +20,13 @@
   </a>
   <br> 
   </br>
-  Click on the images to go to the specific pages.
+  </a>
+ <a href="https://github.com/AEspinosaDev/OpenGL-SimpleRenderer">
+  <img src=https://user-images.githubusercontent.com/79087129/164989294-98c890ab-9498-4927-8cf5-812ce658bba3.gif width=50%>
+  </a>
+   <br> 
+  </br>
+ Click on the images to go to the specific pages.
  
 </p>
  <br> 
@@ -28,7 +34,7 @@
     <H2 ALIGN="CENTER"></H2>
 <H2 ALIGN="CENTER"> GAME DEVELOPMENT </H2>
 
-<H2 ALIGN="CENTER">COMPUTER GRAPHICS</H2>
+<H2 ALIGN="CENTER">COMPUTER GRAPHICS AND PHYSICS SIMULATION</H2>
 
 <H2 ALIGN="CENTER">3D ART </H2>
 <br> 
