@@ -32,11 +32,13 @@
  <br> 
     </br>
     <H2 ALIGN="CENTER"></H2>
-<H2 ALIGN="CENTER"> GAME DEVELOPMENT </H2>
+    
+    
+<H2 ALIGN="CENTER">COMPUTER GRAPHICS AND PHYSICS SIMULATION ⚙</H2>
 
-<H2 ALIGN="CENTER">COMPUTER GRAPHICS AND PHYSICS SIMULATION</H2>
+<H2 ALIGN="CENTER"> GAME DEVELOPMENT 🎮</H2>
 
-<H2 ALIGN="CENTER">3D ART </H2>
+<H2 ALIGN="CENTER">3D ART 🖌</H2>
 <br> 
     </br>
     
@@ -44,7 +46,7 @@
 
 - 👀 I’m interested in videogame developing, specially in graphics programming, gameplay programming and 3D art.
 
-- 💻 I’m currently studying a degree in videogame developing focusing on the programming side. 
+- 💻 I’m currently studying a degree in videogame developing focusing on the graphic programming side. 
 
 - ⚖ I have a decent level in C, C++, GLSL, CUDA, Java and JS and I also have good modelling and texturing skills.
 
