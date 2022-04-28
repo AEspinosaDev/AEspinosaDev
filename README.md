@@ -48,7 +48,7 @@
 
 - 💻 I’m currently studying a degree in videogame developing focusing on the graphic programming side. 
 
-- ⚖ I have a decent level in C, C++, GLSL, CUDA, Java and JS and I also have good modelling and texturing skills.
+- ⚖ I have a good level in C++ and C#, a decent level in C, GLSL, CUDA, Java, Python and JS. I also have good modelling and texturing skills.
 
 - 💞️ I’m looking to collaborate on a project for: (1) Help in the development of some gameplay, graphic or interface functionality. (2) Help in the design of 3D assets. 
 
