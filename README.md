@@ -8,7 +8,7 @@
 
 <p align="center"> 
    <a href="https://tonyespinosa_dev.artstation.com/">
-   <img src=https://user-images.githubusercontent.com/79087129/149677388-312962d7-3a03-4548-b178-d8087480796b.gif width=50%>
+   <img src=https://user-images.githubusercontent.com/79087129/149677388-312962d7-3a03-4548-b178-d8087480796b.gif >
   </a>
    <br> 
     </br>
