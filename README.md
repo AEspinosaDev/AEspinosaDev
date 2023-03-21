@@ -1,6 +1,24 @@
+
 <H1 ALIGN="CENTER">    WELCOME TO MY GITHUB    👋</H1>
+
+
+
+
+<div align="center">
+<a href="https://github.com/AEspinosaDev">
+   
+  <img align="CENTER" src="https://github-readme-stats.vercel.app/api?username=AEspinosaDev&show_icons=true&theme=transparent" />
+</a>
+   
+</div>
+
 <br> 
 </br>
+   
+   
+   
+   
+   
    
 <H2 ALIGN="CENTER">COMPUTER GRAPHICS AND PHYSICS SIMULATION ⚙</H2>
 <br> 
@@ -46,6 +64,9 @@
 
 <br> 
     </br>
+    
+ PROFILE VIEWS<br> 
+ ![Visitor Count](https://profile-counter.glitch.me/{AEspinosaDev}/count.svg)
     
 - 👋 Hi, my name is Antonio Espinosa Garcia, but you can call me Tony!
 
