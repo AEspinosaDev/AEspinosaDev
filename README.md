@@ -11,7 +11,7 @@
 
    - 📚 I’m currently finishing a degree in videogame developing doing a thesis focusing on the graphic programming side. 
       
-   - 💻 I´m doing my internship in [SEDDI](https://seddi.com/) labs.
+   - 💻 I´m doing my internship in [SEDDI](https://seddi.com/) labs working as a computer graphics researcher.
 
    - ✏ In my github you will find the latest projects im working on and some old projects perfect to use and check for educational purposes.
 
