@@ -33,8 +33,14 @@
 <a href="https://github.com/AEspinosaDev/OpenGL-SimpleRenderer">
   <img src=https://user-images.githubusercontent.com/79087129/149677387-2601e052-9af8-42a3-a9c0-6221873fddf6.gif width=60%>
   </a>
+  <br> 
+</br>
+<a href="https://github.com/AEspinosaDev/WebGL-RealTimeFur-SEDDI">
+  <img src=https://user-images.githubusercontent.com/79087129/226618032-70b67516-4ab7-41a6-aa56-d7433456a66a.gif width=60%>
+  </a>
   </p>
- 
+
+
 <H2 ALIGN="CENTER"> GAME DEVELOPMENT 🎮</H2>
  <br> 
   </br>
