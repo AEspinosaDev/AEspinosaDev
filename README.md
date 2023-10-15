@@ -47,7 +47,9 @@
  <div>
 <p align="right"> 
 <a href="https://github.com/AEspinosaDev/OpenGL-Renderer">
-  <img src=https://user-images.githubusercontent.com/79087129/226618032-70b67516-4ab7-41a6-aa56-d7433456a66a.gif width=50%>
+
+
+  <img src=https://github.com/AEspinosaDev/AEspinosaDev/assets/79087129/8c547b8c-dca5-4e7b-90f1-3149a89bae3d.gif width=50%>
   </a>
  <a href="https://github.com/AEspinosaDev/OpenGL-Renderer">
      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AEspinosaDev&repo=OpenGL-Renderer&theme=transparent" />
