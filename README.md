@@ -1,6 +1,7 @@
 
 <H1 ALIGN="CENTER">    WELCOME TO MY GITHUB    👋</H1>
 
+
 <div align="left">
    <h5>
       
@@ -37,7 +38,6 @@
 <p align="right"> 
 <a href="https://github.com/AEspinosaDev/Cloth-Behaviour-Simulation">
   <img src=https://user-images.githubusercontent.com/79087129/164989294-98c890ab-9498-4927-8cf5-812ce658bba3.gif width=50%>
-
  </a>
  <a href="https://github.com/AEspinosaDev/Cloth-Behaviour-Simulation">
      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AEspinosaDev&repo=Cloth-Behaviour-Simulation&theme=transparent" />
@@ -46,11 +46,11 @@
  </div>
  <div>
 <p align="right"> 
-<a href="https://github.com/AEspinosaDev/OpenGL-SimpleRenderer">
-  <img src=https://user-images.githubusercontent.com/79087129/149677387-2601e052-9af8-42a3-a9c0-6221873fddf6.gif width=50%>
+<a href="https://github.com/AEspinosaDev/OpenGL-Renderer">
+  <img src=https://user-images.githubusercontent.com/79087129/226618032-70b67516-4ab7-41a6-aa56-d7433456a66a.gif width=50%>
   </a>
- <a href="https://github.com/AEspinosaDev/OpenGL-SimpleRenderer">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AEspinosaDev&repo=OpenGL-SimpleRenderer&theme=transparent" />
+ <a href="https://github.com/AEspinosaDev/OpenGL-Renderer">
+     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AEspinosaDev&repo=OpenGL-Renderer&theme=transparent" />
 </a>
       </p>
  </div>
