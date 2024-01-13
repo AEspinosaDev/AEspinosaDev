@@ -26,6 +26,10 @@
 <a href="https://github.com/AEspinosaDev">
    
   <img align="CENTER" src="https://github-readme-stats.vercel.app/api?username=AEspinosaDev&show_icons=true&theme=transparent" />
+<br>  
+   <img align="CENTER" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEspinosaDev&langs_count=5&size_weight=0.3&count_weight=0.7&exclude_repo=Elastic-Behaviour-Simulation,Cloth-Behaviour-Simulation&count_private=false&show_icons=true&theme=transparent" />
+   
+
 </a>
   
 </div>
