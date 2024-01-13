@@ -7,12 +7,11 @@
       
    - 👋 Hi, my name is Antonio Espinosa Garcia, but you can call me Tony!
    
-   - 👀 I’m interested in videogame developing, specially in graphics programming, 
-   gameplay programming and 3D art.
+   - 👀 I’m interested in real-time computer graphics, videogame development and 3D art.
 
-   - 📚 I’m currently finishing a degree in videogame developing doing a thesis focusing on the graphic programming side. 
+   - 📚 I’m currently studying a master's degree in Computer Graphics at Rey Juan Carlos University. 
       
-   - 💻 I´m doing my internship in [SEDDI](https://seddi.com/) labs working as a computer graphics researcher.
+   - 💻 I´m currently working on a computer graphics R&D project at my university.
 
    - ✏ In my github you will find the latest projects im working on and some old projects perfect to use and check for educational purposes.
 
