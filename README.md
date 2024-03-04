@@ -11,11 +11,11 @@
 
    - 📚 I’m currently studying a master's degree in Computer Graphics at Rey Juan Carlos University. 
       
-   - 💻 I´m currently working on a computer graphics R&D project at my university.
+   - 💻 I´m currently working as a research fellow (redering engineer) in Rey Juan Carlos University.
 
    - ✏ In my github you will find the latest projects im working on and some old projects perfect to use and check for educational purposes.
 
-   - 📫 How to reach me: tonyespinosa96@gmail.com , antonio.espinosa@seddi.com
+   - 📫 How to reach me: tonyespinosa96@gmail.com , antonio.espinosa@urjc.es
    </h6>
 
    </div>
