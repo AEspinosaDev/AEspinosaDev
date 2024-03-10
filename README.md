@@ -1,11 +1,28 @@
 
 <H1 ALIGN="CENTER">    WELCOME TO MY GITHUB    👋</H1>
 
+<p align="center">
+  <h3 align="center">Hello 👋, my name is Antonio Espinosa</h3>
+</p>
+<p align="center">
+    <a href="https://AEspinosaDev.github.io">Webpage</a>
+    ·
+    <a href="https://www.linkedin.com/in/antonio-espinosa-a88458252/">LinkedIn</a>
+</p>
+<p align="center">
+  <h4 align="center">Computer Graphics | 
+Real-Time Rendering | Videogame Development</h4>
+</p>
+
+<p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=AEspinosaDev&color=blue&style=flat-square" alt="tony espinosa profile views" />
+</p>
+<br/>
 
 <div align="left">
    <h5>
       
-   - 👋 Hi, my name is Antonio Espinosa Garcia, but you can call me Tony!
+  
    
    - 👀 I’m interested in real-time computer graphics, videogame development and 3D art.
 
@@ -138,8 +155,5 @@
     </br>
     <H2 ALIGN="CENTER"></H2>
    
-    
- PROFILE VIEWS<br> 
- ![Visitor Count](https://profile-counter.glitch.me/{AEspinosaDev}/count.svg)
-    
+
 
