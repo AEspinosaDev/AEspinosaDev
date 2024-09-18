@@ -26,9 +26,9 @@ Real-Time Rendering | Videogame Development</h4>
    
    - 👀 I’m interested in real-time computer graphics, videogame development and 3D art.
 
-   - 📚 I’m currently studying a master's degree in Computer Graphics at Rey Juan Carlos University. 
+   - 📚 I’m currently doing a Ph.D in Computer Graphics at Rey Juan Carlos University. 
       
-   - 💻 I´m currently working as a research fellow (redering engineer) in Rey Juan Carlos University.
+   - 💻 I´m currently working as a research fellow (rendering engineer) in Rey Juan Carlos University.
 
    - ✏ In my github you will find the latest projects im working on and some old projects perfect to use and check for educational purposes.
 
