@@ -26,9 +26,9 @@ Real-Time Rendering | Videogame Development</h4>
    
    - 👀 I’m interested in real-time computer graphics, videogame development and 3D art.
 
-   - 📚 I’m currently doing a Ph.D in Computer Graphics at Rey Juan Carlos University. 
-      
-   - 💻 I´m currently working as a research fellow (rendering engineer) in Rey Juan Carlos University.
+   - 💻 I´m currently working as Rendering Engineer in GRIP Studios.
+
+   - 📚 I’m currently doing a Ph.D in Computer Graphics while delivering lectures at Rey Juan Carlos University. 
 
    - ✏ In my github you will find the latest projects im working on and some old projects perfect to use and check for educational purposes.
 
@@ -37,14 +37,13 @@ Real-Time Rendering | Videogame Development</h4>
 
    </div>
 
-<br>
 <div align="center">
-<a href="https://github.com/AEspinosaDev">
-   
-  <img align="CENTER" src="https://github-readme-stats.vercel.app/api?username=AEspinosaDev&show_icons=true&theme=transparent" />
-<br>  
-   <img align="CENTER" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEspinosaDev&langs_count=5&size_weight=0.35&count_weight=0.65&exclude_repo=Elastic-Behaviour-Simulation,Cloth-Behaviour-Simulation&count_private=false&show_icons=true&theme=transparent" />
-   
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AEspinosaDev&theme=algolia" alt="Stats" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AEspinosaDev&theme=algolia" alt="Top Languages" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AEspinosaDev&theme=algolia" alt="Overall Stats" />
+</div>
 
 </a>
   
@@ -63,9 +62,14 @@ Real-Time Rendering | Videogame Development</h4>
   </a>
  <a href="https://github.com/AEspinosaDev/AxionEngine">
      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AEspinosaDev&repo=AxionEngine&theme=transparent" />
+
+   <a href="https://github.com/AEspinosaDev/AxionEngine">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AEspinosaDev&repo=AxionEngine&theme=tokyonight" />
+</a>
 </a>
       </p>
  </div>
+ 
 
 <div>
 <p align="right"> 
