@@ -51,108 +51,99 @@ Real-Time Rendering | Videogame Development</h4>
    <br>
    
 <H2 ALIGN="CENTER">COMPUTER GRAPHICS AND PHYSICS SIMULATION ⚙</H2>
-<br> 
-</br>
-
- <div>
-<p align="right"> 
-<a href="https://github.com/AEspinosaDev/AxionEngine">
-
-  <img src=https://github.com/user-attachments/assets/0abed45a-cfde-492f-afca-3f412a55e80e width=50%>
-  </a>
- <a href="https://github.com/AEspinosaDev/AxionEngine">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AEspinosaDev&repo=AxionEngine&theme=transparent" />
-
-   <a href="https://github.com/AEspinosaDev/AxionEngine">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AEspinosaDev&repo=AxionEngine&theme=tokyonight" />
-</a>
-</a>
-      </p>
- </div>
- 
+<br>
 
 <div>
-<p align="right"> 
-<a href="https://github.com/AEspinosaDev/Cloth-Behaviour-Simulation">
-  <img src=https://user-images.githubusercontent.com/79087129/164989294-98c890ab-9498-4927-8cf5-812ce658bba3.gif width=50%>
- </a>
- <a href="https://github.com/AEspinosaDev/Cloth-Behaviour-Simulation">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AEspinosaDev&repo=Cloth-Behaviour-Simulation&theme=transparent" />
-</a>
-      </p>
- </div>
- <div>
-<p align="right"> 
-<a href="https://github.com/AEspinosaDev/Vulkan-Engine">
+  <p align="right"> 
+    <a href="https://github.com/AEspinosaDev/AxionEngine">
+      <img src="https://github.com/user-attachments/assets/0abed45a-cfde-492f-afca-3f412a55e80e" width="50%">
+    </a>
+    <a href="https://github.com/AEspinosaDev/AxionEngine">
+      <img align="left" src="https://opengraph.githubassets.com/1/AEspinosaDev/AxionEngine" width="45%">
+    </a>
+  </p>
+</div>
 
-  <img src=https://github.com/user-attachments/assets/87681385-a6ad-4726-ae65-83c27136c81e width=50%>
-  </a>
- <a href="https://github.com/AEspinosaDev/Vulkan-Engine">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AEspinosaDev&repo=Vulkan-Engine&theme=transparent" />
-</a>
-      </p>
- </div>
-  <div>
-     <p align="right"> 
-<a href="https://github.com/AEspinosaDev/OpenGL-Renderer">
+<div>
+  <p align="right"> 
+    <a href="https://github.com/AEspinosaDev/Cloth-Behaviour-Simulation">
+      <img src="https://user-images.githubusercontent.com/79087129/164989294-98c890ab-9498-4927-8cf5-812ce658bba3.gif" width="50%">
+    </a>
+    <a href="https://github.com/AEspinosaDev/Cloth-Behaviour-Simulation">
+      <img align="left" src="https://opengraph.githubassets.com/1/AEspinosaDev/Cloth-Behaviour-Simulation" width="45%">
+    </a>
+  </p>
+</div>
 
+<div>
+  <p align="right"> 
+    <a href="https://github.com/AEspinosaDev/Vulkan-Engine">
+      <img src="https://github.com/user-attachments/assets/87681385-a6ad-4726-ae65-83c27136c81e" width="50%">
+    </a>
+    <a href="https://github.com/AEspinosaDev/Vulkan-Engine">
+      <img align="left" src="https://opengraph.githubassets.com/1/AEspinosaDev/Vulkan-Engine" width="45%">
+    </a>
+  </p>
+</div>
 
-  <img src=https://user-images.githubusercontent.com/79087129/275336237-794a3a15-d45b-4cab-af26-0c5962618703.gif width=50%>
-  </a>
- <a href="https://github.com/AEspinosaDev/OpenGL-Renderer">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AEspinosaDev&repo=OpenGL-Renderer&theme=transparent" />
-</a>
-      </p>
- </div>
-  <div>
-<p align="right"> 
-<a href="https://github.com/AEspinosaDev/WebGL-RealTimeFur-SEDDI">
-  <img src=https://user-images.githubusercontent.com/79087129/226618032-70b67516-4ab7-41a6-aa56-d7433456a66a.gif width=50%>
-  </a>
- <a href="https://github.com/AEspinosaDev/WebGL-RealTimeFur-SEDDI">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AEspinosaDev&repo=WebGL-RealTimeFur-SEDDI&theme=transparent" />
-</a>
-      </p>
- </div>
- 
+<div>
+  <p align="right"> 
+    <a href="https://github.com/AEspinosaDev/OpenGL-Renderer">
+      <img src="https://user-images.githubusercontent.com/79087129/275336237-794a3a15-d45b-4cab-af26-0c5962618703.gif" width="50%">
+    </a>
+    <a href="https://github.com/AEspinosaDev/OpenGL-Renderer">
+      <img align="left" src="https://opengraph.githubassets.com/1/AEspinosaDev/OpenGL-Renderer" width="45%">
+    </a>
+  </p>
+</div>
 
+<div>
+  <p align="right"> 
+    <a href="https://github.com/AEspinosaDev/WebGL-RealTimeFur-SEDDI">
+      <img src="https://user-images.githubusercontent.com/79087129/226618032-70b67516-4ab7-41a6-aa56-d7433456a66a.gif" width="50%">
+    </a>
+    <a href="https://github.com/AEspinosaDev/WebGL-RealTimeFur-SEDDI">
+      <img align="left" src="https://opengraph.githubassets.com/1/AEspinosaDev/WebGL-RealTimeFur-SEDDI" width="45%">
+    </a>
+  </p>
+</div>
 
-
-
+<br>
 <H2 ALIGN="CENTER"> GAME DEVELOPMENT 🎮</H2>
- <br> 
-  </br>
+<br>
   
- <div>
-<p align="right"> 
-<a href="https://github.com/OkupaSofware/ProjectSpace">
-<img src=https://user-images.githubusercontent.com/79087129/149678110-83dfc612-c203-4e8c-a510-2f0e3201f402.gif width=50%>
-</a>
- <a href="https://github.com/OkupaSofware/ProjectSpace">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=OkupaSofware&repo=ProjectSpace&theme=transparent" />
-</a>
-      </p>
- </div>
+<div>
+  <p align="right"> 
+    <a href="https://github.com/OkupaSofware/ProjectSpace">
+      <img src="https://user-images.githubusercontent.com/79087129/149678110-83dfc612-c203-4e8c-a510-2f0e3201f402.gif" width="50%">
+    </a>
+    <a href="https://github.com/OkupaSofware/ProjectSpace">
+      <img align="left" src="https://opengraph.githubassets.com/1/OkupaSofware/ProjectSpace" width="45%">
+    </a>
+  </p>
+</div>
  
-  <div>
-<p align="right"> 
-<a href="https://github.com/PunicGames/Gears-Of-Hell">
-<img src=https://user-images.githubusercontent.com/79087129/226626407-a01b13a5-7973-434d-a04f-a54e02ca6b98.png width=50%>
-</a>
- <a href="https://github.com/PunicGames/Gears-Of-Hell">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PunicGames&repo=Gears-Of-Hell&theme=transparent" />
-</a>
-      </p>
- </div>
- <p align="right"> 
-<a href="https://github.com/AEspinosaDev/Greek-Level-AnimationDemo">
-<img src=https://user-images.githubusercontent.com/79087129/226628229-191e3bb9-78ba-41a8-87f6-71aa40ac4e6d.gif width=50%>
-</a>
- <a href="https://github.com/AEspinosaDev/Greek-Level-AnimationDemo">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AEspinosaDev&repo=Greek-Level-AnimationDemo&theme=transparent" />
-</a>
-      </p>
- </div>
+<div>
+  <p align="right"> 
+    <a href="https://github.com/PunicGames/Gears-Of-Hell">
+      <img src="https://user-images.githubusercontent.com/79087129/226626407-a01b13a5-7973-434d-a04f-a54e02ca6b98.png" width="50%">
+    </a>
+    <a href="https://github.com/PunicGames/Gears-Of-Hell">
+      <img align="left" src="https://opengraph.githubassets.com/1/PunicGames/Gears-Of-Hell" width="45%">
+    </a>
+  </p>
+</div>
+
+<div>
+  <p align="right"> 
+    <a href="https://github.com/AEspinosaDev/Greek-Level-AnimationDemo">
+      <img src="https://user-images.githubusercontent.com/79087129/226628229-191e3bb9-78ba-41a8-87f6-71aa40ac4e6d.gif" width="50%">
+    </a>
+    <a href="https://github.com/AEspinosaDev/Greek-Level-AnimationDemo">
+      <img align="left" src="https://opengraph.githubassets.com/1/AEspinosaDev/Greek-Level-AnimationDemo" width="45%">
+    </a>
+  </p>
+</div>
 
 
 
